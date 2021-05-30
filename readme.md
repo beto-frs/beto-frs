@@ -3,8 +3,6 @@
 <details>
       <summary><strong>Desafios Realizados na Digital Innovation One</strong></summary><br/>
 
-<center><img src="https://lh3.googleusercontent.com/proxy/UlO7_L7_pswWrO6srrZcKw6verpuiMCUNWbOaOxqZuXOYCZLnv_ZbqYhOQrWkpTOk1OQ6XhHZL22TKvga1EGV6j_K1FKnEBxLCa4Et2MnrJaGnGVRuLhDkFezASaakndz_8njk326__f5SZMhw" alt="DIO"/></center><br />
-
 <details>
       <summary><strong>C#</strong></summary><br/>
 
