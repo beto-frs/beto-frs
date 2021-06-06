@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=0A66c2&link=https://www.linkedin.com/in/fcorobertodasilva/)](https://www.linkedin.com/in/fcorobertodasilva/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beto-frs&hide=TeX&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beto-frs&show_icons=true&title_color=000000&layout=compact&bg_color=DEG,DCDCDC,ffffff,ffffff,ffffff,DCDCDC&hide_border=true)](#)
 
 
 
