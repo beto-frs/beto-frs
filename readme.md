@@ -2,13 +2,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=0A66c2&link=https://www.linkedin.com/in/fcorobertodasilva/)](https://www.linkedin.com/in/fcorobertodasilva/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beto-frs&show_icons=true&title_color=000000&layout=compact&bg_color=DEG,Edf0f1,F5F5F5,Edf0f1&hide_border=true&langs_count=10)](#)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-frs&show_icons=true&title_color=000000&layout=compact&bg_color=DEG,Edf0f1,F5F5F5,Edf0f1&hide_border=true&langs_count=10" alt="beto-frs">
 
 <table align="center">
 <tr>
-<th colspan=8 style="text-align:center;">
+<th colspan=3 style="text-align:center;">
+<b style="font-size:26px;">Conhecimentos</b></th>
+</tr>
+<tr>
+<td>
 <b style="font-size:26px;">Linguagens</b>
-</th>
+</td>
+<td>
+<br>
+<table align="center">
 </tr>
 <tr>
 <td>
@@ -22,14 +29,15 @@
 </td>
 </tr>
 </table>
-
+</td>
+</tr>
+<tr>
+<td>
+<b style="font-size:26px;">Front End</b>
+</td>
+<td>
 <br>
 <table align="center">
-<tr>
-<th colspan=8 style="text-align:center;">
-<b style="font-size:26px;">Front End</b>
-</th>
-</tr>
 <tr>
 <td>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a>
@@ -51,14 +59,15 @@
 </td>
 </tr>
 </table>
-
+</td>
+</tr>
+<tr>
+<td>
+<b style="font-size:26px;">Back End</b>
+</td>
+<td>
 <br>
 <table align="center">
-<tr>
-<th colspan=8 style="text-align:center;">
-<b style="font-size:26px;">Back End</b>
-</th>
-</tr>
 <tr>
 <td>
 <a href="https://swagger.io/" target="_blank"> <img src="swagger.svg" alt="Swagger" width="40" height="40"/> </a> </a>
@@ -72,13 +81,15 @@
 </tr>
 </table>
 
+</td>
+</tr>
+<tr>
+<td>
+<b style="font-size:26px;">Database</b>
+</td>
+<td>
 <br>
 <table align="center">
-<tr>
-<th colspan=8 style="text-align:center;">
-<b style="font-size:26px;">Database</b>
-</th>
-</tr>
 <tr>
 <td>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
@@ -91,14 +102,16 @@
 </td>
 </tr>
 </table>
-
+</td>
+</tr>
+<tr>
+<td>
+<b style="font-size:26px;">Cloud</b>
+</td>
+<td>
 <br>
 <table align="center">
-<tr>
-<th colspan=8 style="text-align:center;">
-<b style="font-size:26px;">Cloud</b>
-</th>
-</tr>
+
 <tr>
 <td>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -108,14 +121,15 @@
 </td>
 </tr>
 </table>
-
+</td>
+</tr>
+<tr>
+<td>
+<b style="font-size:26px;">Ferramentas</b>
+</td>
+<td>
 <br>
 <table align="center">
-<tr>
-<th colspan=8 style="text-align:center;">
-<b style="font-size:26px;">Ferramentas</b>
-</th>
-</tr>
 <tr>
 <td>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -137,6 +151,9 @@
 </td>
 <td>
 <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/tnt/emea/emea0856/photoshop.svg" alt="Photoshop" width="40" height="40"/> </a>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
