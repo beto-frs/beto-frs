@@ -9,7 +9,7 @@
 <table align="center">
 <tr>
 <th colspan=3 style="text-align:center;">
-<b style="font-size:26px;">Conhecimentos</b></th>
+<b style="font-size:26px;">SKILLS</b></th>
 </tr>
 <tr>
 <td>
