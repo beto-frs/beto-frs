@@ -1,5 +1,5 @@
 # Roberto Silva ( Beto )
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=0A66c2&link=https://www.linkedin.com/in/fcorobertodasilva/)](https://www.linkedin.com/in/fcorobertodasilva/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=0A66c2&link=https://www.linkedin.com/in/fcorobertodasilva/)](https://www.linkedin.com/in/fcorobertodasilva/)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-frs&show_icons=true&title_color=000000&layout=compact&bg_color=DEG,Edf0f1,F5F5F5,Edf0f1&hide_border=true&langs_count=10" alt="beto-frs">
@@ -155,4 +155,4 @@
 
 
 ###### *Lazer*
-[![Spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify)](#Lazer)    [![Netflix](https://img.shields.io/badge/-Netflix-black?style=flat&logo=netflix&logoColor=e50914)](#Lazer)     [![PS4](https://img.shields.io/badge/-Playstation%204-black?style=flat&logo=playstation-4&logoColor=white)](#Lazer)
+[![Spotify](https://img.shields.io/badge/-Spotify-black?style=for-the-badge&logo=spotify)](#Lazer)    [![Netflix](https://img.shields.io/badge/-Netflix-black?style=for-the-badge&logo=netflix&logoColor=e50914)](#Lazer)     [![PS4](https://img.shields.io/badge/-Playstation%204-black?style=for-the-badge&logo=playstation-4&logoColor=white)](#Lazer)
