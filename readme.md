@@ -144,6 +144,9 @@
 <td>
 <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/tnt/emea/emea0856/photoshop.svg" alt="Photoshop" width="40" height="40"/> </a>
 </td>
+<td>
+<a href="https://wordpress.com/pt-br/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> </a>
+</td>
 </tr>
 </table>
 </td>
