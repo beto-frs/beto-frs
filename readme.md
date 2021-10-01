@@ -13,28 +13,6 @@
 </tr>
 <tr>
 <td>
-<b style="font-size:26px;">Linguagens</b>
-</td>
-<td>
-<br>
-<table align="center">
-</tr>
-<tr>
-<td>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-</td>
-<td>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</td>
-<td>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td>
 <b style="font-size:26px;">Front End</b>
 </td>
 <td>
@@ -74,6 +52,15 @@
 <br>
 <table align="center">
 <tr>
+<td>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+</td>
+<td>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</td>
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</td>
 <td>
 <a href="https://swagger.io/" target="_blank"> <img src="swagger.svg" alt="Swagger" width="40" height="40"/> </a> </a>
 </td>
