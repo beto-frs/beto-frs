@@ -9,7 +9,7 @@
 <table align="center">
 <tr>
 <th colspan=3 style="text-align:center;">
-  <b style="font-size:52px;"><h1>STACKS</h1></b></th>
+<b style="font-size:52px;"><h1>STACKS</h1></b></th>
 </tr>
 <tr>
 <td>
