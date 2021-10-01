@@ -59,6 +59,9 @@
 <td>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </td>
+<td>
+<a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="blazor" width="40" height="40"/> </a>
+</td>
 </tr>
 </table>
 </td>
