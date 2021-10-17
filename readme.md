@@ -12,14 +12,6 @@
 
 <br>
 
-## *Desafios Práticos*
-[![](https://img.shields.io/badge/-Recriando%20a%20p%C3%A1gina%20inicial%20do%20Instagram-black?style=for-the-badge&logo=html5&logoColor=#E34F26)](https://beto-frs.github.io/Recriando_Instagram/)<br>
-[![](https://img.shields.io/badge/-Recriando%20a%20p%C3%A1gina%20inicial%20do%20NetFlix-black?style=for-the-badge&logo=html5&logoColor=#E34F26)](https://beto-frs.github.io/Recriando_Netflix/)<br>
-[![](https://img.shields.io/badge/-Consumindo%20API%20REST%20com%20Blazor-black?style=for-the-badge&logo=blazor&logoColor=512BD4)](https://beto-frs.github.io/APIcomBlazor/)<br>
-
-
-<br>
-
 ## *Padrões*
 
 [![](https://img.shields.io/badge/-S.O.L.I.D.-black?style=for-the-badge&logo=csharp&logoColor=B0E2FF)](https://github.com/beto-frs/SOLID) [![](https://img.shields.io/badge/-Design%20Patterns-black?style=for-the-badge&logo=csharp&logoColor=B0E2FF)](https://github.com/beto-frs/Design_Patterns)
