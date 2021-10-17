@@ -1,11 +1,9 @@
-# Roberto Silva ( Beto )
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=0A66c2&link=https://www.linkedin.com/in/fcorobertodasilva/)](https://www.linkedin.com/in/fcorobertodasilva/)
-
+# Roberto Silva ( Beto ) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=0A66c2&link=https://www.linkedin.com/in/fcorobertodasilva/)](https://www.linkedin.com/in/fcorobertodasilva/)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-frs&show_icons=true&title_color=000000&layout=compact&bg_color=DEG,Edf0f1,F5F5F5,Edf0f1&hide_border=true&langs_count=10" alt="beto-frs">
 <img src="study.png" alt="Study" width="36%">
 </p>
-  
+
 # STACKS
 
 <p><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>      <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>   
