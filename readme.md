@@ -13,10 +13,30 @@
 <br>
 
 ## *Padrões*
-
-[![](https://img.shields.io/badge/-S.O.L.I.D.-black?style=for-the-badge&logo=csharp&logoColor=B0E2FF)](https://github.com/beto-frs/SOLID) [![](https://img.shields.io/badge/-Design%20Patterns-black?style=for-the-badge&logo=csharp&logoColor=B0E2FF)](https://github.com/beto-frs/Design_Patterns)
+[![](https://img.shields.io/badge/-Orientação%20a%20Objetos-black?style=for-the-badge&logo=csharp&logoColor=B0E2FF)](https://github.com/beto-frs/studies_oo)    [![](https://img.shields.io/badge/-S.O.L.I.D.-black?style=for-the-badge&logo=csharp&logoColor=B0E2FF)](https://github.com/beto-frs/SOLID)    [![](https://img.shields.io/badge/-Design%20Patterns-black?style=for-the-badge&logo=csharp&logoColor=B0E2FF)](https://github.com/beto-frs/Design_Patterns)
 
 <br>
+
+## *Exercícios*
+[![](https://img.shields.io/badge/-Consumindo%20API%20com%20Blazor-DCDCDC?style=for-the-badge&logo=blazor&logoColor=512BD4)](https://beto-frs.github.io/APIcomBlazor/)    
+[![](https://img.shields.io/badge/-Transfer%C3%AAncia%20Banc%C3%A1ria-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/Transferencia_Bancaria)    
+[![](https://img.shields.io/badge/-Cadastro%20de%20Séries-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/Cadastro_Series)    
+[![](https://img.shields.io/badge/-API%20.NET%20Integrada%20ao%20MongoDB-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/DotNet_MongoDB)    
+[![](https://img.shields.io/badge/-Catálogo%20de%20Jogos-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/API_Catalogo_Jogos)    
+[![](https://img.shields.io/badge/-Crowdfunding-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/Vaquinha_Tests)    
+[![](https://img.shields.io/badge/-Projeto%20Simples%20(CRUD)%20em%20ASP.NET%20MVC-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/ASPNET_CORE_MVC)    
+[![](https://img.shields.io/badge/-Calculadora-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://beto-frs.github.io/Calculadora-Javascript/)    
+[![](https://img.shields.io/badge/-API%20com%20Token-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/API_Token_BackEnd)    
+[![](https://img.shields.io/badge/-WeCode-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/WeDeCode.API)    
+[![](https://img.shields.io/badge/-Orientação%20a%20Objetos-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/studies_oo)    
+
+
+
+
+
+
+
+
 
 ## *Lazer*
 [![Spotify](https://img.shields.io/badge/-Spotify-black?style=for-the-badge&logo=spotify)](#Lazer)    [![Netflix](https://img.shields.io/badge/-Netflix-black?style=for-the-badge&logo=netflix&logoColor=e50914)](#Lazer)     [![PS4](https://img.shields.io/badge/-Playstation%204-black?style=for-the-badge&logo=playstation-4&logoColor=white)](#Lazer)
