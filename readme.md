@@ -153,6 +153,10 @@
 </tr>
 </table>
 
+## *Padrões*
 
-###### *Lazer*
+[![](https://img.shields.io/badge/-S.O.L.I.D.-black?style=for-the-badge&logo=csharp&logoColor=B0E2FF)](https://github.com/beto-frs/SOLID) [![](https://img.shields.io/badge/-Design%20Patterns-black?style=for-the-badge&logo=csharp&logoColor=B0E2FF)](https://github.com/beto-frs/Design_Patterns)
+
+
+## *Lazer*
 [![Spotify](https://img.shields.io/badge/-Spotify-black?style=for-the-badge&logo=spotify)](#Lazer)    [![Netflix](https://img.shields.io/badge/-Netflix-black?style=for-the-badge&logo=netflix&logoColor=e50914)](#Lazer)     [![PS4](https://img.shields.io/badge/-Playstation%204-black?style=for-the-badge&logo=playstation-4&logoColor=white)](#Lazer)
