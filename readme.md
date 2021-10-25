@@ -2,6 +2,7 @@
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-frs&show_icons=true&title_color=000000&layout=compact&bg_color=DEG,Edf0f1,F5F5F5,Edf0f1&hide_border=true&langs_count=10" alt="beto-frs">
+<img src="https://github-readme-stats.vercel.app/api?username=beto-frs&show_icons=false&title_color=000000&bg_color=DEG,Edf0f1,F5F5F5,Edf0f1&hide_border=true&include_all_commits=true&count_private=true" alt="beto-frs">  
 <img src="study.png" alt="Study" width="36%">
 </p>
 <br>
