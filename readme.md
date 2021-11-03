@@ -35,7 +35,8 @@
 [![](https://img.shields.io/badge/-Projeto%20Simples%20(CRUD)%20em%20ASP.NET%20MVC-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/ASPNET_CORE_MVC)    
 [![](https://img.shields.io/badge/-Calculadora-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://beto-frs.github.io/Calculadora-Javascript/)    
 [![](https://img.shields.io/badge/-API%20com%20Token-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/API_Token_BackEnd)    
-[![](https://img.shields.io/badge/-WeCode-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/WeDeCode.API)  
+[![](https://img.shields.io/badge/-WeCode-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/WeDeCode.API)    
+[![](https://img.shields.io/badge/-Console%20App%20Consumindo%20API-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/beto-frs/APInoConsole)
 
 <br>
 
